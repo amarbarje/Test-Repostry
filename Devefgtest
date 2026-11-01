@@ -1,5 +1,4 @@
-Three way merge testing:
-This is an additional file.
+Three way  merge file - This is an additional file.
 Scenario - Someone pushed the code directly to target branch. In this case master branch a new file.So there is a new commit in master branch
 Also now in Dev1Sample we are creating another file. So in both the branches there are changes called Three way merging.
 In Three way merging, source and target branches have changes- Git creates a brand new merge commit tying both histories together.
